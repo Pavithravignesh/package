@@ -1,0 +1,23 @@
+{
+  "name": "test-pvs",
+  "version": "1.0.0",
+  "description": "testing pvs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavithravignesh/package.git"
+  },
+  "keywords": [
+    "run",
+    "psv"
+  ],
+  "author": "pvs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavithravignesh/package/issues"
+  },
+  "homepage": "https://github.com/Pavithravignesh/package#readme"
+}
